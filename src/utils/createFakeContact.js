@@ -8,4 +8,4 @@ export const createFakeContact = () => ({
   job: faker.person.jobTitle(),
 });
 
-console.log(faker);
+// console.log(faker);
